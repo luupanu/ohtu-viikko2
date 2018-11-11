@@ -1,4 +1,9 @@
+# Ignore exercises
+exercises/
+
+# Ignore hidden files and folders
 .gradle/
 .nb-gradle/
 .settings/
-exercises/
+.classpath
+.project
